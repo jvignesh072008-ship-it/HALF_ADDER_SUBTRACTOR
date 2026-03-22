@@ -79,10 +79,12 @@ Developed by:VIGNESH J RegisterNumber:212225230297
 
 **Output/TIMING Waveform**
 ## half adder:
-<img width="1919" height="475" alt="image" src="https://github.com/user-attachments/assets/37a1b97e-e64d-4144-9ff3-36c33beb0572" />
+<img width="1280" height="679" alt="image" src="https://github.com/user-attachments/assets/ddb5371c-5e34-47f0-a301-9661241b8231" />
+
 
 ## half subtractor:
-<img width="1919" height="341" alt="image" src="https://github.com/user-attachments/assets/c3945eb7-f372-497a-8ac9-9da111c38f92" />
+<img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/cb0e3ef9-6229-4c55-ae0b-48bf6ba5c9d6" />
+
 
 **Result:**
 To design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming hence the above the output was verified
